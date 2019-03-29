@@ -1,5 +1,5 @@
 # sauStaj
-# itexsharp kütüphanesi kullanarak oluşturduğum pdfOlustur isimli method
+Bu kod parçacığı öğrenci dekanlığında kullanılmak üzere yazılmış bir projenin küçük bir bölümüdür,itexsharp kütüphanesi kullanarak oluşturduğum pdfOlustur isimli method HomeController.cs dosyasında bulunmaktadır.
 
 Kullanım amacı formdan seçilen fakülte,bölüm,akademik dönem ve yıl için dersi başarı ile geçen öğrencilerin belgelerinin tek bir pdf belgesinde oluşturulması ve otomatik baskıya verilmesidir.
 Aşağıdaki belge örneğinde işaretli kısımlara belirtilen bilgiler veritabanından form bilgilerine göre çekilecektir.
